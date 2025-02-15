@@ -27,14 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-- **Desktop:** `./screenshots/desktop.png`
-- **Tablet:** `./screenshots/tablet.png`
-- **Mobile:** `./screenshots/mobile.png`
+- **Desktop:** `./design/desktop-design.png`
+- **Mobile:** `./design/mobile-design.png`
 
 ### Links
 
-- **Solution URL:** [https://github.com/yourusername/bento-grid-solution](https://github.com/yourusername/bento-grid-solution)
-- **Live Site URL:** [https://your-live-site-url.com](https://your-live-site-url.com)
+- **Solution URL:** [https://github.com/Thaththathirian/bento-grid](https://github.com/Thaththathirian/bento-grid)
+- **Live Site URL:** [https://bento-grid-swart.vercel.app/](https://bento-grid-swart.vercel.app/)
 
 ## My Process
 
