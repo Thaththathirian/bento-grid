@@ -1,5 +1,7 @@
 # Frontend Mentor - Bento Grid Solution
 
+![Desktop Design](design/desktop-design.png)
+
 I completed the Bento Grid Challenge on Frontend Mentor to enhance my understanding of CSS Grid and layout structuring.
 
 ## Table of Contents
